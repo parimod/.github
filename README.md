@@ -1,4 +1,4 @@
-# Fumble - Chatting App
+# Fumble (dot chat)
 
 ![Fumble Logo](https://fumble.chat/branding/fumble-logo.png)
 
