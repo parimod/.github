@@ -18,7 +18,7 @@ Fumble is a versatile and user-friendly chatting app that aims to connect people
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/fumble.git`
+1. Clone the repository: `git clone https://github.com/fumblechat/fumble.git`
 2. Navigate to the project directory: `cd fumble`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let's connect and chat! Join our Fumble community on Discord: [Fumble Community](https://discord.gg/fumblecommunity) - Because we believe in keeping things simple and focused! No unnecessary updates or changes here. Just pure chatting bliss.
+Let's connect and chat! Join our Fumble community on Discord: [Fumble Community](https://discord.gg/fumblechat) - Because we believe in keeping things simple and focused! No unnecessary updates or changes here. Just pure chatting bliss. And don't worry, our community on Fumble is natively bridged to the Discord server, no bias here!
