@@ -1,4 +1,3 @@
-# Fumble (dot chat)
 
 ![Fumble Logo](f_logo1.png)
 
