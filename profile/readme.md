@@ -1,7 +1,7 @@
 
 ![Fumble Logo](f_logo1.png)
 
-Fumble is a versatile and user-friendly chatting app that aims to connect people from all around the world. Say goodbye to unnecessary updates and changes with Fumble—a Free and Open-Source Software (FOSS) alternative that puts you in control of your chatting experience.
+Fumble is an upcoming versatile and user-friendly chatting app that aims to connect people from all around the world. Say goodbye to unnecessary updates and changes with Fumble—a Free and Open-Source Software (FOSS) alternative that puts you in control of your chatting experience.
 
 ## Features
 
