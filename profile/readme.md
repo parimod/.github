@@ -1,2 +1,2 @@
 
-![pmod Logo](p_logo1.png)
+![pmod Logo](p_logo1.png.png)
