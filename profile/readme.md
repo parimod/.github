@@ -1,8 +1,16 @@
-          ^!7^:J55?.                                                                                
-        7B&@@?J@@@@!  !77???7!:    ^?YYJ!.      ^7??:75J. :7YYJ!:!JYJ!:    ^?YYJ!:  :??????!:       
-       J@@@B!::J55?   B@@GGGB@&Y ~B@#P5B@&?   .P@&GG~5#B:J@@G5B@@@B5B@&7 !B@#P5G@@5.!@@#GGB@@P:     
-      7@@@#:  ~@@@#.  B@B.  .P@@^B@#^...5@@~  P@&^   Y#G:&@G  .#@B   B@B^@@5    ^&@P!@@7   :#@B     
-     ^&@@&~   ~@@@#.  B@@###&&B7.&@@#&&#&@@! J@@!    P@&^&@P   #@G   B@B^&@G:  .7@@Y!@@?..:7&@5     
-    :#@@@7    ~@@@#.  B@#~~~~:  .#@G^^^:J@@~!@@J     P@#:#@P  .#@G   B@B :5&@#B&@B? !@@&#&&&B?      
-    5&##J     ^###G.  :^:        ^^:    .^^.:^^      :^^ ^^:   ^^:   :^^   .^!!~:   .^^^^^^:        
-    ....       ....                                                                                 
+![pmlogo](https://github.com/parimod/.github/blob/main/p_logo1.png?raw=true)
+
+_literally the worst @discord mod you can come across_
+
+## what is parimod?
+
+i literally just told you
+
+
+## How do I install it?
+
+you dont
+
+## How do I make a plugin/theme?
+
+you dont do that either 
