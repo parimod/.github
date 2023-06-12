@@ -1,4 +1,4 @@
-![pmlogo](https://github.com/parimod/.github/blob/main/p_logo1.png?raw=true)
+![pmlogo](https://github.com/parimod/.github/blob/main/profile/pm.png?raw=true)
 
 _literally the worst @discord mod you can come across_
 
